@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-theme: minima
+# GitHub ページ
